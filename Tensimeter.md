@@ -4,8 +4,8 @@
 #include <LiquidCrystal_I2C.h>
 int pinSensor = 1;
 int pinFilter = 0;
-int maks = 86;
-int baca = 82;
+int maks = 90;
+int baca = 85;
 int Ts = 7;
 int powerOn = 5;
 int nBT1 = 0;
